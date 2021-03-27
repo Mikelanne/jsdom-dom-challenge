@@ -32,8 +32,7 @@ functionality working as you build.
    loaded.
 2. As a user, I can manually increment and decrement the counter using the plus
    and minus buttons.
-3. As a user, I can 'like' an individual number of the counter. I should see the
-   count of the number of 'likes' associated with that number displayed.
+3. As a user, I can 'like' an individual number of the counter. I should see the count of the number of 'likes' associated with that number displayed.
 4. As a user, I can pause the counter, which should:
 
   * pause the counter
